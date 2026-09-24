@@ -1,0 +1,7 @@
+# 301 Permanent Redirect www to non-www
+https://www.robertdev.me/* https://robertdev.me/:splat 301!
+http://www.robertdev.me/* https://robertdev.me/:splat 301!
+http://robertdev.me/* https://robertdev.me/:splat 301!
+
+# SPA Fallback
+/* /index.html 200

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Pagina Principală Canonică -->
+  <url>
+    <loc>https://robertdev.me/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://robertdev.me/robert-logo.png</image:loc>
+      <image:title>Robert-Cristian Ivănescu - Siglă &amp; Brand Personal</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://robertdev.me/projects/puterea-cuvantului-preview.jpg</image:loc>
+      <image:title>Concursul Puterea Cuvântului Craiova - Platformă Fondată de Robert Ivănescu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://robertdev.me/projects/financeflow-preview.jpg</image:loc>
+      <image:title>FinanceFlow Analytics Platform - Robert Ivănescu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://robertdev.me/projects/extract-coffee-preview.jpg</image:loc>
+      <image:title>Extract Coffee Roasters E-Commerce - Robert Ivănescu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://robertdev.me/projects/cryptoforensics-preview.jpg</image:loc>
+      <image:title>CryptoForensics Blockchain Analytics - Robert Ivănescu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Secțiuni Cheie Indexabile -->
+  <url>
+    <loc>https://robertdev.me/#projects</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://robertdev.me/#about</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://robertdev.me/#skills</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://robertdev.me/#experience</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://robertdev.me/#contact</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+</urlset>

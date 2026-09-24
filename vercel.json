@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.robertdev.me"
+        }
+      ],
+      "destination": "https://robertdev.me/$1",
+      "permanent": true
+    }
+  ]
+}

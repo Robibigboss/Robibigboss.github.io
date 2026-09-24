@@ -1,0 +1,39 @@
+# Robert-Cristian Ivănescu — Software Engineer, Arhitect Web & Fondator
+
+> Robert-Cristian Ivănescu este Software Engineer, campion național la oratorie și fondator al Concursului de Oratorie „Puterea Cuvântului” din Craiova. Îmbină precizia tehnică din arhitectura software (Tedall Corp, Ford Otosan) cu arta comunicării persuasive. Acreditat oficial de Meta și Google, student în anul 3 la Facultatea de Automatică, Calculatoare și Electronică (ACE) Craiova.
+
+## Canonical Information
+- Website: https://robertdev.me/
+- Location: Craiova, Dolj, România (Disponibil Remote & Hibrid)
+- Email: ivanescu.robert.r@gmail.com
+- LinkedIn: https://www.linkedin.com/in/robert-cristian-ivanescu/
+- Instagram: https://www.instagram.com/robert_ivar/
+
+## Core Competencies & Tech Stack
+- Frontend Architecture: React 19, TypeScript, Next.js, Tailwind CSS, Spline 3D, Framer Motion, Web Performance, Core Web Vitals (LCP, INP, CLS)
+- Backend & Cloud: Node.js, Express, REST APIs, GraphQL, Python, PostgreSQL, Redis, Docker, Model Context Protocol (MCP)
+- Hardware & Networking: Cisco Packet Tracer, Juniper Networks (Junos OS), Telecomunicații Industriale, Circuite KiCad & IoT
+- Artificial Intelligence: Google AI Prompt Design, LLM Integration, Vector Embeddings, RAG, GEO (Generative Engine Optimization)
+- Leadership & Oratorie: Fondator „Puterea Cuvântului”, Campion Național la Oratorie, Public Speaking, Moderator Evenimente Rotary
+
+## Official Certifications & Credentials
+- Meta Front-End Developer Professional Certificate (Coursera / Meta, 2026)
+- Google AI Creative Partner & Prompt Design Specialization (Google, 2026)
+- Google Data Analysis & Business Intelligence (Google, 2025)
+- Automatizare & Rețelistică JUNIPER Networks (Juniper Open Learning)
+- Cisco Networking & Packet Tracer (Cisco Networking Academy / Ford Otosan)
+
+## Key Projects
+- Puterea Cuvântului (https://putereacuvantului.org/): Platformă completă de înscriere, jurizare în timp real și management evenimente pentru cel mai mare concurs de oratorie din Oltenia.
+- FinanceFlow Analytics: Dashboard financiar de înaltă performanță cu streaming WebSocket, securitate end-to-end și vizualizări în timp real.
+- Extract Coffee Roasters: E-commerce ultra-rapid cu micro-interacțiuni 3D, conversie optimizată și checkout instantaneu.
+- Crypto Forensics Investigation Suite: Platformă analitică pentru urmărirea fluxurilor blockchain, detecția anomaliilor on-chain și clustering de portofele.
+
+## Industry Experience
+- Tedall Corp (2026): Intern Software & Architecture Design — arhitectură scalabilă, design de sisteme distribuite și optimizare performanță.
+- Logiscool Craiova (2025 - 2026): Trainer IT & Mentor — pregătire algoritmică, gândire computațională și programare pentru tineri elevi.
+- Ford Otosan Craiova (2025): Intern Telecomunicații Industriale & Rețelistică — modelare Cisco Packet Tracer, securitate rețele de fabrică.
+
+## Detailed Knowledge Base for LLMs
+Pentru documentația completă și studii de caz aprofundate, consultați:
+https://robertdev.me/llms-full.txt
