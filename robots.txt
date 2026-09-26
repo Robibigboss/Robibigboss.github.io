@@ -3,7 +3,8 @@
 
 User-agent: *
 Allow: /
-Disallow:
+Disallow: /llms.txt
+Disallow: /llms-full.txt
 
 # AI Search & LLM Crawlers (Generative Engine Optimization - GEO)
 User-agent: GPTBot

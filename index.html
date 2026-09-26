@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
     
     <!-- Primary SEO Meta Tags (Calibrated < 580px Title, < 1000px Description) -->
     <title>Robert Ivănescu | Software Engineer & Fondator Craiova</title>
@@ -42,7 +43,9 @@
     <meta name="twitter:image" content="https://robertdev.me/robert-logo.png" />
 
     <!-- PWA & Mobile Icons -->
-    <link rel="icon" type="image/png" href="/robert-logo.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/robert-logo.png" />
     <link rel="apple-touch-icon" href="/robert-logo.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#FAF9F5" />
@@ -64,98 +67,6 @@
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&subset=latin,latin-ext&display=swap" />
     </noscript>
-
-    <!-- Prerendered Shell Clean Mobile-First Styling & Media Queries -->
-    <style>
-      #root > header, #root > main, #root > footer {
-        max-width: 1040px;
-        margin: 0 auto;
-        padding: 1.25rem 1rem;
-        font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
-      }
-      #root nav ul {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.5rem;
-        list-style: none;
-        padding: 0;
-        margin: 0 0 1.25rem 0;
-      }
-      #root nav a {
-        display: inline-block;
-        padding: 0.4rem 0.85rem;
-        background: rgba(185, 56, 21, 0.08);
-        color: #B93815;
-        border-radius: 9999px;
-        text-decoration: none;
-        font-size: 0.85rem;
-        font-weight: 700;
-        transition: all 0.2s ease;
-      }
-      #root nav a:hover {
-        background: #B93815;
-        color: #ffffff;
-      }
-      #root h1 {
-        font-size: 1.85rem;
-        line-height: 1.25;
-        font-weight: 800;
-        color: #0A0D14;
-        margin: 0.75rem 0;
-        letter-spacing: -0.02em;
-      }
-      #root h2 {
-        font-size: 1.35rem;
-        font-weight: 700;
-        color: #1e293b;
-        margin-top: 2rem;
-        margin-bottom: 0.75rem;
-        border-bottom: 2px solid #e2e8f0;
-        padding-bottom: 0.5rem;
-      }
-      #root h3 {
-        font-size: 1.1rem;
-        font-weight: 700;
-        color: #0A0D14;
-        margin-top: 0.5rem;
-        margin-bottom: 0.35rem;
-      }
-      #root p {
-        font-size: 0.95rem;
-        line-height: 1.65;
-        color: #334155;
-        margin-bottom: 1rem;
-      }
-      #root article {
-        background: #ffffff;
-        border: 1px solid #e2e8f0;
-        border-radius: 0.85rem;
-        padding: 1.15rem 1.25rem;
-        margin-bottom: 1rem;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-      }
-      #root ul {
-        padding-left: 1.25rem;
-        color: #334155;
-        line-height: 1.7;
-      }
-      #root a {
-        color: #B93815;
-        font-weight: 600;
-      }
-      /* Responsive Media Queries */
-      @media screen and (min-width: 768px) {
-        #root h1 { font-size: 2.35rem; }
-        #root > header, #root > main, #root > footer { padding: 2.5rem 1.5rem; }
-        #root p { font-size: 1rem; }
-      }
-      @media screen and (max-width: 767px) {
-        #root h1 { font-size: 1.5rem; line-height: 1.3; }
-        #root nav a { font-size: 0.78rem; padding: 0.35rem 0.65rem; }
-        #root p { font-size: 0.88rem; line-height: 1.55; }
-        #root article { padding: 0.9rem 1rem; }
-      }
-    </style>
 
     <!-- Theme Initialization Script (Prevents Flash of Unstyled Content / FOIT / FOUC) -->
     <script>
@@ -366,180 +277,111 @@
       ]
     }
     </script>
-    <script type="module" crossorigin src="/assets/index-CsnYSJDp.js"></script>
+    <script type="module" crossorigin src="/assets/index-DUNhgTZg.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vendor-icons-DWUA_z6B.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-motion-CdjzWveJ.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-react-jSnRw2LU.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-D0AYigoj.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-DZUzBnZT.css">
   </head>
   <body class="bg-[#FAF9F5] dark:bg-[#0A0D14] text-slate-950 dark:text-slate-100 font-sans antialiased selection:bg-accent/20 dark:selection:bg-accent/40 selection:text-accent-hover dark:selection:text-white overflow-x-hidden min-h-screen transition-colors duration-300">
     <!-- Prerendered Semantic Crawlable Shell: Provides 100% crawlability for search engines, SEO auditors, and non-JS bots (Replaced seamlessly when React hydrates) -->
-    <div id="root" style="background-color: #FAF9F5; color: #0A0D14; font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; min-height: 100vh; line-height: 1.6; padding-bottom: 40px;">
-      <!-- Header / Nav -->
-      <header style="max-width: 1100px; margin: 0 auto; padding: 20px 16px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; border-bottom: 1px solid rgba(0,0,0,0.06);">
-        <div style="display: flex; align-items: center; gap: 10px;">
-          <span style="display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; background-color: #B93815; color: #ffffff; font-weight: 800; border-radius: 10px; font-size: 15px;">RI</span>
-          <span style="font-weight: 800; font-size: 18px; color: #0A0D14; letter-spacing: -0.02em;">Robert Ivănescu</span>
-        </div>
+    <div id="root">
+      <header>
         <nav aria-label="Navigație Principală">
-          <ul style="display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 0; padding: 0;">
-            <li><a href="#about" style="display: inline-block; padding: 6px 14px; background: rgba(0,0,0,0.04); color: #334155; border-radius: 9999px; text-decoration: none; font-size: 13px; font-weight: 600;">Despre</a></li>
-            <li><a href="#projects" style="display: inline-block; padding: 6px 14px; background: rgba(0,0,0,0.04); color: #334155; border-radius: 9999px; text-decoration: none; font-size: 13px; font-weight: 600;">Proiecte</a></li>
-            <li><a href="#skills" style="display: inline-block; padding: 6px 14px; background: rgba(0,0,0,0.04); color: #334155; border-radius: 9999px; text-decoration: none; font-size: 13px; font-weight: 600;">Competențe</a></li>
-            <li><a href="#experience" style="display: inline-block; padding: 6px 14px; background: rgba(0,0,0,0.04); color: #334155; border-radius: 9999px; text-decoration: none; font-size: 13px; font-weight: 600;">Experiență</a></li>
-            <li><a href="#contact" style="display: inline-block; padding: 6px 14px; background: #B93815; color: #ffffff; border-radius: 9999px; text-decoration: none; font-size: 13px; font-weight: 700;">Contact</a></li>
+          <ul>
+            <li><a href="#about">Despre Mine &amp; Media</a></li>
+            <li><a href="#projects">Proiecte Reprezentative</a></li>
+            <li><a href="#skills">Competențe &amp; Acreditări</a></li>
+            <li><a href="#experience">Experiență Profesională</a></li>
+            <li><a href="#contact">Contact Direct</a></li>
           </ul>
         </nav>
       </header>
 
-      <!-- Main Content -->
-      <main style="max-width: 1100px; margin: 0 auto; padding: 24px 16px;">
-        <!-- Hero Section -->
-        <section id="hero" style="padding: 24px 0 40px 0;">
-          <div style="display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; background: #ffffff; border: 1.5px solid rgba(185, 56, 21, 0.3); border-radius: 9999px; font-size: 13px; font-weight: 700; color: #0A0D14; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 16px;">
-            <span style="display: inline-block; width: 8px; height: 8px; background-color: #B93815; border-radius: 50%;"></span>
-            <span>Software Engineer &bull; Fondator &bull; Student ACE Craiova</span>
-          </div>
-
-          <h1 style="font-size: clamp(28px, 5vw, 48px); line-height: 1.15; font-weight: 900; color: #0A0D14; letter-spacing: -0.03em; margin: 12px 0 20px 0;">
-            Construiesc sisteme scalabile. <span style="color: #B93815; display: inline-block;">Conving prin puterea cuvântului.</span>
-          </h1>
-
-          <p style="font-size: 16px; line-height: 1.7; color: #334155; max-width: 720px; font-weight: 500; margin-bottom: 24px;">
-            Îmbin precizia tehnică din inginerie software și arhitectură de sistem (Tedall Corp, Ford Otosan) cu arta persuasiunii și comunicarea strategică. Fondator al primului concurs de oratorie de anvergură din Craiova („Puterea Cuvântului”), acreditat Meta &amp; Google și student în anul 3 la Facultatea de Automatică, Calculatoare și Electronică (ACE) din Craiova.
-          </p>
-
-          <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 36px;">
-            <a href="#projects" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: linear-gradient(135deg, #B93815, #9A2C0D); color: #ffffff; border-radius: 12px; font-weight: 700; text-decoration: none; font-size: 14px; box-shadow: 0 4px 12px rgba(185, 56, 21, 0.25);">Descoperă proiectele &rarr;</a>
-            <a href="#contact" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: #ffffff; color: #0A0D14; border: 1.5px solid #E2E8F0; border-radius: 12px; font-weight: 700; text-decoration: none; font-size: 14px;">Hai să colaborăm</a>
-          </div>
-
-          <!-- Highlight Chips -->
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px;">
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 14px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.04);">
-              <div style="font-size: 20px; font-weight: 800; color: #B93815;">3+ Ani</div>
-              <div style="font-size: 12px; font-weight: 600; color: #64748B;">Experiență Dezvoltare &amp; Sisteme</div>
-            </div>
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 14px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.04);">
-              <div style="font-size: 20px; font-weight: 800; color: #B93815;">10+</div>
-              <div style="font-size: 12px; font-weight: 600; color: #64748B;">Proiecte Scalabile &amp; E-Commerce</div>
-            </div>
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 14px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.04);">
-              <div style="font-size: 20px; font-weight: 800; color: #B93815;">Campion Național</div>
-              <div style="font-size: 12px; font-weight: 600; color: #64748B;">Oratorie &amp; Public Speaking</div>
-            </div>
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 14px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.04);">
-              <div style="font-size: 20px; font-weight: 800; color: #B93815;">Acreditare Oficială</div>
-              <div style="font-size: 12px; font-weight: 600; color: #64748B;">Meta Front-End &amp; Google AI</div>
-            </div>
+      <main>
+        <section id="hero">
+          <p>Software Engineer &bull; Fondator &bull; Student ACE Craiova</p>
+          <h1>Robert-Cristian Ivănescu — Software Engineer, Arhitect Web &amp; Fondator</h1>
+          <p>Construiesc sisteme scalabile. Conving prin puterea cuvântului. Îmbin precizia tehnică din software și arhitectură de sistem (Tedall Corp, Ford Otosan) cu arta persuasiunii. Fondator al primului concurs de oratorie de anvergură din Craiova, acreditat Meta &amp; Google și student în anul 3 la Facultatea de Automatică, Calculatoare și Electronică (ACE) din Craiova.</p>
+          <div>
+            <a href="#projects">Descoperă Proiectele</a>
+            <a href="#contact">Hai să Colaborăm</a>
           </div>
         </section>
 
-        <!-- About Section -->
-        <section id="about" style="padding: 32px 0; border-top: 1px solid rgba(0,0,0,0.06);">
-          <h2 style="font-size: 24px; font-weight: 800; color: #0A0D14; margin-bottom: 16px; letter-spacing: -0.02em;">Despre Mine — Inginerie Software, Educație &amp; Oratorie</h2>
-          <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 16px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-            <p style="font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 14px;">
-              Sunt <strong>Robert-Cristian Ivănescu</strong> — Software Engineer, student la Facultatea de Automatică, Calculatoare și Electronică din Craiova (ACE), campion național la oratorie și fondator al Concursului „Puterea Cuvântului”. Îmbin rigoarea tehnică a ingineriei cu forța comunicării strategice și viziunea de produs.
-            </p>
-            <p style="font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 14px;">
-              Student în anul 3 la ACE Craiova, îmbin pasiunea pentru inginerie software, sisteme distribuite și dezvoltare web de înaltă performanță cu experiența practică dobândită ca Intern la <strong>Tedall Corp</strong> (2026 - Software &amp; Architecture Design), Trainer IT la <strong>Logiscool Craiova</strong> și Intern la <strong>Ford Otosan Craiova</strong> (2025 - Telecomunicații Industriale, Rețelistică &amp; Packet Tracer).
-            </p>
-            <p style="font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 14px;">
-              Sunt fondatorul primului Concurs de Oratorie de amploare din Craiova: <strong>„Puterea Cuvântului”</strong>, campion național la oratorie și câștigător al multor competiții prestigioase de public speaking. În calitate de fondator, am fost invitat la emisiuni precum „Educație 9” (TVR Craiova), „România de nota 10” (Radio Oltenia) și „Oameni cu Viziune” (Radio Nova Mix), proiectul bucurându-se de apreciere largă în presa locală.
-            </p>
-            <p style="font-size: 15px; line-height: 1.7; color: #334155; margin: 0;">
-              Dețin certificări oficiale emise de <strong>Meta</strong> (Front-End Development) și <strong>Google</strong> (AI Creative Partner, Data Analysis, Prompt Design), completate de pregătire în Automatizare JUNIPER și rețelistică Cisco. Cu o experiență de peste 4 ani ca voluntar în asociații de renume (Interact, Rotaract, OSACE, AIESEC) și colaborator pentru organizații cheie (ISJ, CJE), aduc fiecărui proiect tehnică de elită, leadership și viziune strategică.
-            </p>
-          </div>
+        <section id="about">
+          <h2>Despre Mine — Inginerie Software, Educație &amp; Oratorie</h2>
+          <p>Sunt Ivănescu Robert Cristian — Software Engineer, student la Automatică și Calculatoare, campion național la oratorie și fondator al Concursului „Puterea Cuvântului”. Îmbin rigoarea tehnică a ingineriei cu forța comunicării strategice.</p>
+          <p>Student în anul 3 la Facultatea de Automatică, Calculatoare și Electronică din Craiova (ACE), îmbin pasiunea pentru inginerie software, sisteme embedded și dezvoltare web de înaltă performanță cu experiența practică dobândită ca Intern la Tedall Corp (2026 - Software &amp; Architecture Design), Trainer IT la Logiscool Craiova și Intern la Ford Otosan (2025 - Telecomunicații, Rețelistică &amp; Packet Tracer).</p>
+          <p>Sunt fondatorul primului Concurs de Oratorie de amploare din Craiova: „Puterea Cuvântului”, campion național la oratorie și câștigător al multor competiții prestigioase de public speaking. În calitate de fondator, am fost invitat la emisiuni precum „Educație 9” (TVR Craiova), „România de nota 10” (Radio Oltenia) și „Oameni cu Viziune” (Radio Nova Mix), proiectul bucurându-se de apreciere largă în presa locală.</p>
+          <p>Dețin certificări oficiale emise de Meta (Front-End Development) și Google (AI Creative Partner, Data Analysis, Prompt Design), completate de pregătire în Automatizare JUNIPER și rețelistică Cisco. Cu o experiență de peste 4 ani ca voluntar în asociații de renume (Interact, Rotaract, OSACE, AIESEC) și colaborator pentru organizații cheie (ISJ, CJE), aduc fiecărui proiect tehnică de elită, leadership și viziune strategică.</p>
         </section>
 
-        <!-- Projects Section -->
-        <section id="projects" style="padding: 32px 0; border-top: 1px solid rgba(0,0,0,0.06);">
-          <h2 style="font-size: 24px; font-weight: 800; color: #0A0D14; margin-bottom: 8px; letter-spacing: -0.02em;">Proiecte Reprezentative &amp; Studii de Caz</h2>
-          <p style="font-size: 15px; color: #64748B; margin-bottom: 20px;">Aplicații web, platforme analitice și sisteme scalabile construite de Robert Ivănescu.</p>
+        <section id="projects">
+          <h2>Proiecte Reprezentative &amp; Studii de Caz</h2>
+          <p>Aplicații web, mobile și platforme analitice construite end-to-end de Robert Ivănescu, optimizate pentru performanță maximă, securitate și experiență fluidă a utilizatorului.</p>
+          
+          <article>
+            <h3>Puterea Cuvântului — Platformă Digitală &amp; Jurizare Live</h3>
+            <p>Platformă web completă dezvoltată pentru cel mai mare concurs de oratorie din Craiova și regiunea Oltenia. Include sistem de înscrieri securizat, panou de jurizare în timp real pentru evaluarea concurenților și afișare dinamică a clasamentelor.</p>
+            <p><a href="https://putereacuvantului.org/" target="_blank" rel="noopener noreferrer">Vizitează Platforma Oficială Puterea Cuvântului</a></p>
+          </article>
 
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
-            <article style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 16px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-              <span style="display: inline-block; padding: 4px 10px; background: rgba(185,56,21,0.08); color: #B93815; border-radius: 9999px; font-size: 11px; font-weight: 700; margin-bottom: 10px;">Platformă Web &bull; Jurizare Live</span>
-              <h3 style="font-size: 18px; font-weight: 800; color: #0A0D14; margin: 0 0 8px 0;">Puterea Cuvântului</h3>
-              <p style="font-size: 14px; line-height: 1.6; color: #475569; margin-bottom: 14px;">Platformă web completă dezvoltată pentru cel mai mare concurs de oratorie din Craiova și Oltenia. Include înscrieri securizate, jurizare live în timp real și clasamente instant.</p>
-              <a href="https://putereacuvantului.org/" target="_blank" rel="noopener noreferrer" style="font-size: 13px; font-weight: 700; color: #B93815; text-decoration: none;">Vizitează Platforma Oficială &rarr;</a>
-            </article>
+          <article>
+            <h3>FinanceFlow Analytics — Platformă Financiară în Timp Real</h3>
+            <p>Dashboard de monitorizare financiară și analiză a riscului cu streaming de date prin WebSocket, latență ultra-redusă sub 50 milisecunde și conformitate cu standardele enterprise de securitate bancară.</p>
+          </article>
 
-            <article style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 16px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-              <span style="display: inline-block; padding: 4px 10px; background: rgba(185,56,21,0.08); color: #B93815; border-radius: 9999px; font-size: 11px; font-weight: 700; margin-bottom: 10px;">FinTech &bull; High Frequency</span>
-              <h3 style="font-size: 18px; font-weight: 800; color: #0A0D14; margin: 0 0 8px 0;">FinanceFlow Analytics</h3>
-              <p style="font-size: 14px; line-height: 1.6; color: #475569; margin: 0;">Dashboard de analiză financiară și monitorizare risc cu streaming WebSocket de latență sub 50ms și securitate la nivel enterprise.</p>
-            </article>
+          <article>
+            <h3>Extract Coffee Roasters — E-Commerce de Mare Viteză</h3>
+            <p>Magazin online modern optimizat pentru conversie maximă, scor Lighthouse 100/100, micro-interacțiuni 3D și flux de comandă optimizat fără pași redundanți.</p>
+          </article>
 
-            <article style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 16px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-              <span style="display: inline-block; padding: 4px 10px; background: rgba(185,56,21,0.08); color: #B93815; border-radius: 9999px; font-size: 11px; font-weight: 700; margin-bottom: 10px;">E-Commerce &bull; Lighthouse 100</span>
-              <h3 style="font-size: 18px; font-weight: 800; color: #0A0D14; margin: 0 0 8px 0;">Extract Coffee Roasters</h3>
-              <p style="font-size: 14px; line-height: 1.6; color: #475569; margin: 0;">Magazin online de mare viteză, micro-interacțiuni 3D, experiență mobilă impecabilă și flux de conversie optimizat.</p>
-            </article>
-
-            <article style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 16px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-              <span style="display: inline-block; padding: 4px 10px; background: rgba(185,56,21,0.08); color: #B93815; border-radius: 9999px; font-size: 11px; font-weight: 700; margin-bottom: 10px;">Blockchain &bull; Securitate On-Chain</span>
-              <h3 style="font-size: 18px; font-weight: 800; color: #0A0D14; margin: 0 0 8px 0;">CryptoForensics Suite</h3>
-              <p style="font-size: 14px; line-height: 1.6; color: #475569; margin: 0;">Instrument investigativ avansat pentru trasabilitatea fluxurilor de active digitale și detecția anomaliilor pe blockchain.</p>
-            </article>
-          </div>
+          <article>
+            <h3>CryptoForensics Suite — Analiză On-Chain &amp; Securitate Blockchain</h3>
+            <p>Instrument investigativ pentru urmărirea fluxurilor financiare pe rețele blockchain, detecția automată a anomaliilor de tranzacționare și generarea de rapoarte criminalistice de conformitate.</p>
+          </article>
         </section>
 
-        <!-- Skills Section -->
-        <section id="skills" style="padding: 32px 0; border-top: 1px solid rgba(0,0,0,0.06);">
-          <h2 style="font-size: 24px; font-weight: 800; color: #0A0D14; margin-bottom: 12px; letter-spacing: -0.02em;">Competențe Tehnice &amp; Acreditări Oficiale</h2>
-          <p style="font-size: 15px; color: #475569; margin-bottom: 16px;">Arhitectură full-stack, React 19, TypeScript, automatizare cloud și infrastructură de rețele:</p>
-          <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">Meta Front-End Developer Certified</span>
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">Google AI Creative Partner &amp; Prompt Design</span>
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">Google Data Analytics Professional</span>
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">React 19 &amp; TypeScript</span>
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">Next.js &amp; Tailwind CSS</span>
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">Juniper Cloud Automation (Junos OS)</span>
-            <span style="padding: 8px 14px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; font-size: 13px; font-weight: 600; color: #334155;">Cisco Packet Tracer Rețelistică</span>
-          </div>
+        <section id="skills">
+          <h2>Competențe Tehnice, Stivă &amp; Acreditări Oficiale</h2>
+          <p>Arhitectură full-stack modernă cu React 19, TypeScript, Next.js, Node.js, baze de date relaționale și non-relaționale, integrare protocoale AI (MCP), modelare rețele cu Cisco Packet Tracer și automatizare Juniper Networks.</p>
+          <ul>
+            <li>Acreditare Oficială Meta: Front-End Developer Professional Certificate (React, JavaScript ES6+, UI Architecture)</li>
+            <li>Acreditare Oficială Google: AI Creative Partner &amp; Prompt Design Specialization</li>
+            <li>Acreditare Oficială Google: Data Analytics Professional Certificate</li>
+            <li>Automatizare &amp; Rețelistică Cloud: Juniper Networks (Junos OS)</li>
+            <li>Telecomunicații &amp; Rețele Industriale: Cisco Networking Academy &amp; Ford Otosan</li>
+          </ul>
         </section>
 
-        <!-- Experience Section -->
-        <section id="experience" style="padding: 32px 0; border-top: 1px solid rgba(0,0,0,0.06);">
-          <h2 style="font-size: 24px; font-weight: 800; color: #0A0D14; margin-bottom: 16px; letter-spacing: -0.02em;">Experiență Profesională &amp; Parcurs Tehnic</h2>
-          <div style="display: flex; flex-direction: column; gap: 12px;">
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 14px; padding: 18px; box-shadow: 0 1px 4px rgba(0,0,0,0.03);">
-              <strong style="color: #0A0D14; font-size: 15px;">Tedall Corp (2026)</strong> — <span style="color: #B93815; font-weight: 600;">Software &amp; Architecture Design Intern</span>
-              <p style="font-size: 14px; color: #475569; margin: 6px 0 0 0;">Dezvoltare sisteme distribuite, optimizare backend și arhitectură cloud.</p>
-            </div>
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 14px; padding: 18px; box-shadow: 0 1px 4px rgba(0,0,0,0.03);">
-              <strong style="color: #0A0D14; font-size: 15px;">Logiscool Craiova (2025 - 2026)</strong> — <span style="color: #B93815; font-weight: 600;">Trainer IT &amp; Mentor</span>
-              <p style="font-size: 14px; color: #475569; margin: 6px 0 0 0;">Formare în algoritmică, logică de programare și dezvoltare de jocuri pentru tineri.</p>
-            </div>
-            <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 14px; padding: 18px; box-shadow: 0 1px 4px rgba(0,0,0,0.03);">
-              <strong style="color: #0A0D14; font-size: 15px;">Ford Otosan Craiova (2025)</strong> — <span style="color: #B93815; font-weight: 600;">Intern Telecomunicații Industriale</span>
-              <p style="font-size: 14px; color: #475569; margin: 6px 0 0 0;">Diagnosticare infrastructură de rețele industriale, configurare echipamente și simulare Packet Tracer.</p>
-            </div>
-          </div>
+        <section id="experience">
+          <h2>Experiență Profesională &amp; Parcurs Tehnic</h2>
+          <p>Traseu profesional concentrat pe inginerie software, instruire tehnică și proiectare de infrastructură digitală în Craiova și la nivel național.</p>
+          <ul>
+            <li><strong>Tedall Corp (2026)</strong> — Software &amp; Architecture Design Intern: Dezvoltare sisteme distribuite, optimizare backend și arhitectură cloud.</li>
+            <li><strong>Logiscool Craiova (2025 - 2026)</strong> — Trainer IT &amp; Mentor: Formare în algoritmică, logică de programare și dezvoltare de jocuri pentru tineri.</li>
+            <li><strong>Ford Otosan Craiova (2025)</strong> — Intern Telecomunicații Industriale: Diagnosticare infrastructură de rețele industriale, configurare echipamente și simulare Packet Tracer.</li>
+          </ul>
         </section>
 
-        <!-- Contact Section -->
-        <section id="contact" style="padding: 32px 0; border-top: 1px solid rgba(0,0,0,0.06);">
-          <h2 style="font-size: 24px; font-weight: 800; color: #0A0D14; margin-bottom: 12px; letter-spacing: -0.02em;">Contact &amp; Colaborare Directă</h2>
-          <p style="font-size: 15px; color: #475569; margin-bottom: 14px;">Sunt disponibil pentru dezvoltare de proiecte software, arhitectură web și parteneriate strategice în Craiova, remote sau hibrid.</p>
-          <p style="font-size: 15px; margin-bottom: 16px;">
-            Email direct: <a href="mailto:ivanescu.robert.r@gmail.com" style="color: #B93815; font-weight: 700; text-decoration: none;">ivanescu.robert.r@gmail.com</a>
-          </p>
-          <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <a href="https://www.linkedin.com/in/robert-cristian-ivanescu/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 16px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; color: #0A0D14; font-size: 13px; font-weight: 600; text-decoration: none;">LinkedIn &rarr;</a>
-            <a href="https://www.instagram.com/robert_ivar/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 16px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; color: #0A0D14; font-size: 13px; font-weight: 600; text-decoration: none;">Instagram @robert_ivar &rarr;</a>
-            <a href="https://ace.ucv.ro/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 16px; background: #ffffff; border: 1px solid #E2E8F0; border-radius: 10px; color: #0A0D14; font-size: 13px; font-weight: 600; text-decoration: none;">Facultatea ACE Craiova &rarr;</a>
-          </div>
+        <section id="contact">
+          <h2>Contact &amp; Colaborare Directă</h2>
+          <p>Sunt disponibil pentru dezvoltare de proiecte software, arhitectură web, consultanță tehnică și parteneriate strategice în Craiova, remote sau hibrid.</p>
+          <p>Trimite-mi un mesaj direct pe adresa de email: <a href="mailto:ivanescu.robert.r@gmail.com">ivanescu.robert.r@gmail.com</a></p>
+          <p>Conectează-te pe rețelele profesionale:</p>
+          <ul>
+            <li><a href="https://www.linkedin.com/in/robert-cristian-ivanescu/" target="_blank" rel="noopener noreferrer">Profil LinkedIn Robert-Cristian Ivănescu</a></li>
+            <li><a href="https://www.instagram.com/robert_ivar/" target="_blank" rel="noopener noreferrer">Profil Instagram @robert_ivar</a></li>
+            <li><a href="https://ace.ucv.ro/" target="_blank" rel="noopener noreferrer">Facultatea de Automatică, Calculatoare și Electronică din Craiova</a></li>
+          </ul>
         </section>
       </main>
 
       <!-- Footer -->
-      <footer style="max-width: 1100px; margin: 0 auto; padding: 24px 16px; border-top: 1px solid rgba(0,0,0,0.06); text-align: center; color: #64748B; font-size: 13px;">
+      <footer style="max-width: 1100px; margin: 0 auto; padding: 24px 16px; border-top: 1px solid rgba(0,0,0,0.08); text-align: center; color: #334155; font-size: 13px;">
         <p style="margin: 0 0 6px 0;">&copy; 2026 Robert-Cristian Ivănescu. Toate drepturile rezervate. Craiova, Dolj, România.</p>
-        <p style="margin: 0;"><a href="/llms.txt" style="color: #64748B; text-decoration: none;">Documentație LLM (llms.txt)</a> | <a href="/sitemap.xml" style="color: #64748B; text-decoration: none;">Sitemap XML</a></p>
+        <p style="margin: 0;"><a href="/llms.txt" rel="nofollow" target="_blank" style="color: #334155; text-decoration: underline;">Documentație LLM (llms.txt)</a> | <a href="/sitemap.xml" rel="nofollow" target="_blank" style="color: #334155; text-decoration: underline;">Sitemap XML</a></p>
       </footer>
     </div>
   </body>
