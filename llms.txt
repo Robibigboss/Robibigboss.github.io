@@ -1,39 +1,28 @@
-# Robert-Cristian Ivănescu — Software Engineer, Arhitect Web & Fondator
+# Robert-Cristian Ivănescu — Meditații Fizice 1-la-1 Gimnaziu (Clasele V–VIII) în Craiova
 
-> Robert-Cristian Ivănescu este Software Engineer, campion național la oratorie și fondator al Concursului de Oratorie „Puterea Cuvântului” din Craiova. Îmbină precizia tehnică din arhitectura software (Tedall Corp, Ford Otosan) cu arta comunicării persuasive. Acreditat oficial de Meta și Google, student în anul 3 la Facultatea de Automatică, Calculatoare și Electronică (ACE) Craiova.
+> Pregătire individuală față în față în Craiova la Matematică (inclusiv Evaluarea Națională), Informatică & Programare C++ și Robotică & Electronică (Arduino / ESP32) pentru elevi din clasele V–VIII.
 
-## Canonical Information
-- Website: https://robertdev.me/
-- Location: Craiova, Dolj, România (Disponibil Remote & Hibrid)
-- Email: ivanescu.robert.r@gmail.com
-- LinkedIn: https://www.linkedin.com/in/robert-cristian-ivanescu/
-- Instagram: https://www.instagram.com/robert_ivar/
+## Date de Contact Directe
+- **Mentor:** Robert-Cristian Ivănescu (Robert Ivănescu)
+- **Website:** https://robertdev.me/
+- **Oraș / Format:** Craiova, Dolj, România — **Exclusiv Fizic (față în față, 1-la-1)**
+- **Telefon:** +40 730 648 803 (`0730 648 803`)
+- **WhatsApp:** https://wa.me/40730648803
+- **Email:** ivanescu.robert.r@gmail.com
 
-## Core Competencies & Tech Stack
-- Frontend Architecture: React 19, TypeScript, Next.js, Tailwind CSS, Spline 3D, Framer Motion, Web Performance, Core Web Vitals (LCP, INP, CLS)
-- Backend & Cloud: Node.js, Express, REST APIs, GraphQL, Python, PostgreSQL, Redis, Docker, Model Context Protocol (MCP)
-- Hardware & Networking: Cisco Packet Tracer, Juniper Networks (Junos OS), Telecomunicații Industriale, Circuite KiCad & IoT
-- Artificial Intelligence: Google AI Prompt Design, LLM Integration, Vector Embeddings, RAG, GEO (Generative Engine Optimization)
-- Leadership & Oratorie: Fondator „Puterea Cuvântului”, Campion Național la Oratorie, Public Speaking, Moderator Evenimente Rotary
+## Materii Pregătite (Clasele V–VIII)
+1. **Matematică (Clasele V–VIII & Evaluarea Națională):** Recuperarea golurilor din urmă, înțelegerea logică a algebrei și geometriei plane/în spațiu, sprijin pentru teme, lucrări și simulări.
+2. **Informatică & Programare C++:** Gândire algoritmică de la zero, structuri de control, vectori, matrici, probleme PbInfo și concursuri școlare.
+3. **Robotică & Electronică (Arduino / ESP32):** Construirea practică de circuite reale cu senzori, LED-uri și servomotoare. Toate plăcile Arduino/ESP32 și componentele sunt aduse de mentor la ședințele fizice (părinții nu trebuie să cumpere niciun kit).
 
-## Official Certifications & Credentials
-- Meta Front-End Developer Professional Certificate (Coursera / Meta, 2026)
-- Google AI Creative Partner & Prompt Design Specialization (Google, 2026)
-- Google Data Analysis & Business Intelligence (Google, 2025)
-- Automatizare & Rețelistică JUNIPER Networks (Juniper Open Learning)
-- Cisco Networking & Packet Tracer (Cisco Networking Academy / Ford Otosan)
+## Metodologie și Organizare
+- **Ședință inițială de evaluare:** 60 de minute față în față pentru evaluarea nivelului actual al elevului și stabilirea planului de lucru.
+- **Format:** 100% individual (1-la-1), exclusiv fizic în Craiova (fără lecții online).
+- **Durată ședință standard:** 1 oră și 30 de minute (90 minute), cu opțiune de 2 ore la cerere.
+- **Feedback pentru părinți:** Rezumat clar după fiecare ședință privind progresul copilului.
 
-## Key Projects
-- Puterea Cuvântului (https://putereacuvantului.org/): Platformă completă de înscriere, jurizare în timp real și management evenimente pentru cel mai mare concurs de oratorie din Oltenia.
-- FinanceFlow Analytics: Dashboard financiar de înaltă performanță cu streaming WebSocket, securitate end-to-end și vizualizări în timp real.
-- Extract Coffee Roasters: E-commerce ultra-rapid cu micro-interacțiuni 3D, conversie optimizată și checkout instantaneu.
-- Crypto Forensics Investigation Suite: Platformă analitică pentru urmărirea fluxurilor blockchain, detecția anomaliilor on-chain și clustering de portofele.
-
-## Industry Experience
-- Tedall Corp (2026): Intern Software & Architecture Design — arhitectură scalabilă, design de sisteme distribuite și optimizare performanță.
-- Logiscool Craiova (2025 - 2026): Trainer IT & Mentor — pregătire algoritmică, gândire computațională și programare pentru tineri elevi.
-- Ford Otosan Craiova (2025): Intern Telecomunicații Industriale & Rețelistică — modelare Cisco Packet Tracer, securitate rețele de fabrică.
-
-## Detailed Knowledge Base for LLMs
-Pentru documentația completă și studii de caz aprofundate, consultați:
-https://robertdev.me/llms-full.txt
+## Calificări & Experiență Mentor
+- **2 ani experiență ca Trainer IT la Logiscool Craiova** (predare programare, algoritmică și robotică pentru copii).
+- **Student în anul III la Facultatea de Automatică, Calculatoare și Electronică (ACE Craiova)**.
+- **Fondator al Concursului de Oratorie „Puterea Cuvântului”** și campion național la oratorie (invitat la TVR Craiova și Radio Oltenia).
+- **Certificări Oficiale:** Google (AI Creative Partner, Prompt Design, Data Analysis), Meta (Front-End Development), Cisco (Packet Tracer & Computer Hardware Basics), Juniper Networks.

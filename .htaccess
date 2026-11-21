@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # 301 Permanent Redirect www to non-www
+  RewriteCond %{HTTP_HOST} ^www\.robertivanescu\.dev [NC]
+  RewriteRule ^(.*)$ https://robertdev.me/$1 [L,R=301]
+
+  # Enforce HTTPS
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://robertdev.me/$1 [L,R=301]
+
+  # SPA Routing: Send requests for missing files/directories to index.html
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
