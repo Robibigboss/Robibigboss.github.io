@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F131A" />
+      <stop offset="100%" stop-color="#1A202C" />
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D90429" />
+      <stop offset="100%" stop-color="#FF2A4B" />
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Square (Obsidian) -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#bgGrad)" stroke="#D90429" stroke-width="3" />
+  <!-- Top Racing Red Accent Bar -->
+  <path d="M14 5 H50" stroke="url(#redGrad)" stroke-width="3.5" stroke-linecap="round" />
+  <!-- Graduation Cap / Academic Mentor Symbol (Top) -->
+  <path d="M32 12 L48 19 L32 26 L16 19 Z" fill="#D90429" />
+  <path d="M22 22.5 V28.5 C22 31 26.5 33 32 33 C37.5 33 42 31 42 28.5 V22.5" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M46 20 V29" stroke="#D90429" stroke-width="2.2" stroke-linecap="round" />
+  <!-- Math / Code / Robotics Symbols at Bottom: < ∑ > -->
+  <path d="M18 41 L12 46 L18 51" fill="none" stroke="#D90429" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M46 41 L52 46 L46 51" fill="none" stroke="#D90429" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Central Sigma / Math Symbol in Pure White -->
+  <path d="M38 39 H26 L33 46 L26 53 H38" fill="none" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

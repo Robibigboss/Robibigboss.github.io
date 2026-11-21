@@ -1,19 +1,21 @@
 {
-  "name": "Robert-Cristian Ivănescu — Software Engineer & Fondator",
-  "short_name": "Robert Ivănescu",
-  "description": "Portofoliul oficial al lui Robert-Cristian Ivănescu — Software Engineer, campion național la oratorie și fondator al concursului Puterea Cuvântului din Craiova.",
+  "name": "Robert Ivănescu — Meditații Matematică, Informatică (C++) și Robotică Craiova (Primară 9+ ani & Gimnaziu V–VIII)",
+  "short_name": "Meditații Robert Ivănescu",
+  "description": "Meditații fizice 1-la-1 în Craiova la Matematică, Informatică (C++) și Robotică (Arduino / ESP32) pentru copii începând cu 9 ani (primară) și elevi de gimnaziu (clasele V–VIII).",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FAF9F5",
-  "theme_color": "#C45D3E",
-  "lang": "ro-RO",
-  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#D90429",
   "icons": [
     {
-      "src": "/robert-logo.png",
-      "sizes": "192x192 512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ]
 }

@@ -1,28 +1,29 @@
-# Robert-Cristian Ivănescu — Meditații Fizice 1-la-1 Gimnaziu (Clasele V–VIII) în Craiova
+# Robert-Cristian Ivănescu — Meditații Fizice 1-la-1 în Craiova: Matematică, Informatică (C++) și Robotică Copii (De la 9 ani / Primară și Gimnaziu V–VIII)
 
-> Pregătire individuală față în față în Craiova la Matematică (inclusiv Evaluarea Națională), Informatică & Programare C++ și Robotică & Electronică (Arduino / ESP32) pentru elevi din clasele V–VIII.
+> Meditații individuale față în față în Craiova la Matematică (inclusiv Evaluarea Națională), Informatică & Programare C++ și Robotică & Electronică (Starter Kit Arduino / ESP32, senzori și electronică analogică) pentru copii începând cu vârsta de 9 ani (clasele III–IV) și elevi de gimnaziu (clasele V–VIII).
 
 ## Date de Contact Directe
 - **Mentor:** Robert-Cristian Ivănescu (Robert Ivănescu)
 - **Website:** https://robertdev.me/
 - **Oraș / Format:** Craiova, Dolj, România — **Exclusiv Fizic (față în față, 1-la-1)**
+- **Vârste / Clase acceptate:** Copii din ciclul primar începând cu 9 ani (clasele III–IV) și elevi de gimnaziu (clasele V, VI, VII și VIII)
 - **Telefon:** +40 730 648 803 (`0730 648 803`)
 - **WhatsApp:** https://wa.me/40730648803
 - **Email:** ivanescu.robert.r@gmail.com
 
-## Materii Pregătite (Clasele V–VIII)
-1. **Matematică (Clasele V–VIII & Evaluarea Națională):** Recuperarea golurilor din urmă, înțelegerea logică a algebrei și geometriei plane/în spațiu, sprijin pentru teme, lucrări și simulări.
-2. **Informatică & Programare C++:** Gândire algoritmică de la zero, structuri de control, vectori, matrici, probleme PbInfo și concursuri școlare.
-3. **Robotică & Electronică (Arduino / ESP32):** Construirea practică de circuite reale cu senzori, LED-uri și servomotoare. Toate plăcile Arduino/ESP32 și componentele sunt aduse de mentor la ședințele fizice (părinții nu trebuie să cumpere niciun kit).
+## Materii Pregătite în Craiova (Primară 9+ ani & Gimnaziu V–VIII)
+1. **Meditații Matematică Craiova (Clasele III–IV & V–VIII / Evaluarea Națională):** Consolidarea bazelor de calcul pentru copii de 9–10 ani, recuperarea lacunelor din urmă la algebră și geometrie în gimnaziu și pregătire structurată pentru Evaluarea Națională (clasa a VIII-a).
+2. **Meditații Informatică & Programare C++ Craiova (De la 9 ani & Gimnaziu):** Inițiere în gândire algoritmică pentru copii de la 9 ani, limbajul C++ de la zero pentru gimnaziu, probleme PbInfo și concursuri școlare.
+3. **Robotică & Electronică Copii Craiova — Arduino & ESP32 (9–15 ani):** Lucru practic pe breadboard cu Starter Kit-uri Arduino și ESP32, module de senzori și componente de electronică analogică (rezistoare, condensatoare, potențiometre, tranzistoare, LED-uri, servomotoare). Toate echipamentele sunt asigurate de mentor la ședințele fizice.
 
 ## Metodologie și Organizare
-- **Ședință inițială de evaluare:** 60 de minute față în față pentru evaluarea nivelului actual al elevului și stabilirea planului de lucru.
-- **Format:** 100% individual (1-la-1), exclusiv fizic în Craiova (fără lecții online).
+- **Ședință inițială de evaluare:** 60 de minute față în față în Craiova pentru evaluarea nivelului actual al copilului și stabilirea planului de lucru.
+- **Format:** 100% individual (1-la-1), exclusiv fizic în Craiova.
 - **Durată ședință standard:** 1 oră și 30 de minute (90 minute), cu opțiune de 2 ore la cerere.
-- **Feedback pentru părinți:** Rezumat clar după fiecare ședință privind progresul copilului.
+- **Feedback pentru părinți:** Informare clară după fiecare ședință privind progresul copilului.
 
 ## Calificări & Experiență Mentor
-- **2 ani experiență ca Trainer IT la Logiscool Craiova** (predare programare, algoritmică și robotică pentru copii).
+- **2 ani experiență ca Trainer IT la Logiscool Craiova** (predare programare, algoritmică și robotică pentru copii între 9 și 15 ani).
 - **Student în anul III la Facultatea de Automatică, Calculatoare și Electronică (ACE Craiova)**.
 - **Fondator al Concursului de Oratorie „Puterea Cuvântului”** și campion național la oratorie (invitat la TVR Craiova și Radio Oltenia).
 - **Certificări Oficiale:** Google (AI Creative Partner, Prompt Design, Data Analysis), Meta (Front-End Development), Cisco (Packet Tracer & Computer Hardware Basics), Juniper Networks.
