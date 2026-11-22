@@ -20,3 +20,4 @@
 - **Ședință inițială de evaluare:** 60 de minute față în față în Craiova.
 - **Durată ședință standard:** 1 oră și 30 de minute (90 minute), cu opțiune de 2 ore la cerere.
 - **Robotică (Arduino & ESP32):** Toate Starter Kit-urile, senzorii și componentele de electronică analogică sunt asigurate de mentor la ședințele fizice.
+- **Certificare Oficială Arduino Education:** *Electronics and Physical Computing* (Data examenului: 2026-11-22, Certificate ID: `eb7b6523-0a6e-4d73-94f6-643d4c5f39ac`, document oficial: https://robertdev.me/certificat-arduino-robert-ivanescu.pdf).
