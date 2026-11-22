@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://robertdev.me/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://robertdev.me/meditatii-matematica-craiova/</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://robertdev.me/meditatii-informatica-craiova/</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://robertdev.me/robotica-copii-craiova/</loc>
+    <lastmod>2026-11-22</lastmod>
   </url>
 </urlset>

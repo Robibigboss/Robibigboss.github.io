@@ -1,29 +1,22 @@
 # Robert-Cristian Ivănescu — Meditații Fizice 1-la-1 în Craiova: Matematică, Informatică (C++) și Robotică Copii (De la 9 ani / Primară și Gimnaziu V–VIII)
 
-> Meditații individuale față în față în Craiova la Matematică (inclusiv Evaluarea Națională), Informatică & Programare C++ și Robotică & Electronică (Starter Kit Arduino / ESP32, senzori și electronică analogică) pentru copii începând cu vârsta de 9 ani (clasele III–IV) și elevi de gimnaziu (clasele V–VIII).
+> Meditații individuale față în față în Craiova — fie în zona 1 Mai (lângă Facultatea de Medicină), fie la domiciliul elevului — la Matematică (inclusiv Evaluarea Națională), Informatică & Programare C++ și Robotică & Electronică (Starter Kit Arduino / ESP32, senzori și electronică analogică) pentru copii începând cu 9 ani (clasele III–IV) și elevi de gimnaziu (clasele V–VIII).
 
-## Date de Contact Directe
+## Pagini Dedicate pe Materii
+- **Pagina principală:** https://robertdev.me/
+- **Meditații Matematică Craiova:** https://robertdev.me/meditatii-matematica-craiova/
+- **Meditații Informatică & C++ Craiova:** https://robertdev.me/meditatii-informatica-craiova/
+- **Robotică Copii Craiova (Arduino & ESP32):** https://robertdev.me/robotica-copii-craiova/
+
+## Date de Contact & Profile Verificate
 - **Mentor:** Robert-Cristian Ivănescu (Robert Ivănescu)
-- **Website:** https://robertdev.me/
-- **Oraș / Format:** Craiova, Dolj, România — **Exclusiv Fizic (față în față, 1-la-1)**
-- **Vârste / Clase acceptate:** Copii din ciclul primar începând cu 9 ani (clasele III–IV) și elevi de gimnaziu (clasele V, VI, VII și VIII)
-- **Telefon:** +40 730 648 803 (`0730 648 803`)
-- **WhatsApp:** https://wa.me/40730648803
+- **Oraș / Locație:** Craiova, Dolj — Zona 1 Mai (lângă Facultatea de Medicină) sau deplasare la domiciliul elevului (Exclusiv Fizic, 1-la-1)
+- **Telefon / WhatsApp:** +40 730 648 803 (`0730 648 803`) • https://wa.me/40730648803
 - **Email:** ivanescu.robert.r@gmail.com
-
-## Materii Pregătite în Craiova (Primară 9+ ani & Gimnaziu V–VIII)
-1. **Meditații Matematică Craiova (Clasele III–IV & V–VIII / Evaluarea Națională):** Consolidarea bazelor de calcul pentru copii de 9–10 ani, recuperarea lacunelor din urmă la algebră și geometrie în gimnaziu și pregătire structurată pentru Evaluarea Națională (clasa a VIII-a).
-2. **Meditații Informatică & Programare C++ Craiova (De la 9 ani & Gimnaziu):** Inițiere în gândire algoritmică pentru copii de la 9 ani, limbajul C++ de la zero pentru gimnaziu, probleme PbInfo și concursuri școlare.
-3. **Robotică & Electronică Copii Craiova — Arduino & ESP32 (9–15 ani):** Lucru practic pe breadboard cu Starter Kit-uri Arduino și ESP32, module de senzori și componente de electronică analogică (rezistoare, condensatoare, potențiometre, tranzistoare, LED-uri, servomotoare). Toate echipamentele sunt asigurate de mentor la ședințele fizice.
+- **LinkedIn:** https://www.linkedin.com/in/robert-cristian-iv%C4%83nescu-46baa6378/ (Fondator & Coordonator General la Concursul Național de Oratorie „Puterea Cuvântului”)
+- **Instagram:** https://www.instagram.com/robert_ivar/ (`@robert_ivar`)
 
 ## Metodologie și Organizare
-- **Ședință inițială de evaluare:** 60 de minute față în față în Craiova pentru evaluarea nivelului actual al copilului și stabilirea planului de lucru.
-- **Format:** 100% individual (1-la-1), exclusiv fizic în Craiova.
+- **Ședință inițială de evaluare:** 60 de minute față în față în Craiova.
 - **Durată ședință standard:** 1 oră și 30 de minute (90 minute), cu opțiune de 2 ore la cerere.
-- **Feedback pentru părinți:** Informare clară după fiecare ședință privind progresul copilului.
-
-## Calificări & Experiență Mentor
-- **2 ani experiență ca Trainer IT la Logiscool Craiova** (predare programare, algoritmică și robotică pentru copii între 9 și 15 ani).
-- **Student în anul III la Facultatea de Automatică, Calculatoare și Electronică (ACE Craiova)**.
-- **Fondator al Concursului de Oratorie „Puterea Cuvântului”** și campion național la oratorie (invitat la TVR Craiova și Radio Oltenia).
-- **Certificări Oficiale:** Google (AI Creative Partner, Prompt Design, Data Analysis), Meta (Front-End Development), Cisco (Packet Tracer & Computer Hardware Basics), Juniper Networks.
+- **Robotică (Arduino & ESP32):** Toate Starter Kit-urile, senzorii și componentele de electronică analogică sunt asigurate de mentor la ședințele fizice.
